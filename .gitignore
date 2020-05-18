@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*.npy
+.ipynb_checkpoints
+fashion_mnist/
+
+*.zip
+
+logs/
 # C extensions
 *.so
 
